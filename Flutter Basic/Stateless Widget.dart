@@ -1,4 +1,4 @@
-class Frog extends StatelessWidget {
+/* class Frog extends StatelessWidget {
     const Frog({
         Key key,
         this.color,
@@ -12,4 +12,4 @@ class Frog extends StatelessWidget {
     Widget build(BuildContext context){
         return Container(color: color, child: child);
     }
-}
+} */

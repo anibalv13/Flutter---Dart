@@ -1,4 +1,4 @@
-class Bird extends StatefulWidget{
+/* class Bird extends StatefulWidget{
   const Bird({
     Key key,
     this.color = const Color(0xFFFFE306),
@@ -23,4 +23,4 @@ class _BirdState extends State<Bird> {
       child: widget.child,
     );
   }
-}
+} */
