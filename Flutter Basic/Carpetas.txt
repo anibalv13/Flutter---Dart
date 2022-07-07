@@ -1,0 +1,24 @@
+Pubspec.yaml: es el archivo de configuración del proyecto en Flutter
+    name: nombre de la APP
+    description: Descripción del proyecto.
+    version: version que ve el usuario en la store + codigo de version
+    environment: nos permite establevcer a que version de DART se va a utilizar
+    dependencies: son todos los archivos o proyectos los cuales se necesitan para compilar
+    librerias: que se pueden visitar en https://dart.dev/tools/pub/pubspec,hay que tener cuidado con los identados
+    dev_dependences: son dependencias que son necesarias al momento de desarrollar
+    assets: archivos que necesitan las apps
+    fonts: es donde se agregan archivos de tipografías
+
+carpeta test: sirve para hacer pruebas.
+
+carpeta lib: se encuentran todos los archivos .dart que se encuentran en el proyecto.
+
+carpeta ios: se encuentran todas las configuraciones para los dispositivos ios.
+
+carpeta Android : se encuentran todos los archivos de para los dispositivos Android.
+incluyendo el manifest que es donde se establecen los permisos.
+exiten dos archivos de manifest el de la carpeta main que es el principal
+y el android manifest que es para permisos loscales en los dispositivos android.
+    archivos Gradle: son los que se modifican para cambiar las release.
+    
+
